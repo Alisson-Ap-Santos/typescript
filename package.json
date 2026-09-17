@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.5.0",
+    "@types/readline-sync": "^1.4.8",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "dev": "tsx src/script.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
